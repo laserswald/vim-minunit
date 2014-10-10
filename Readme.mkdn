@@ -1,0 +1,8 @@
+vim-minunit
+===========
+
+##A compiler setting for a modified version of Jera Coding's minunit
+
+Minunit is a wonderfully light piece of software. I've made a few adjustments for my own use. 
+
+Firstly, I added a C string equality assertion. 
